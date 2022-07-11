@@ -1,2 +1,12 @@
-# summer-project
-To store and review the code associated with the project. 
+## Contents
+
+### In progress:
+- `Single curve.`
+
+### Backlog:
+- OIS curve.
+- Multi-curve pricing.
+- Alternative methods for curves (e.g. Root finding discount factors) (?)
+- Post-LIBOR curve.
+
+### Done:
